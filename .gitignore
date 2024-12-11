@@ -1,0 +1,7 @@
+# config
+src/.env
+src/config.py
+
+# venv
+venv/
+env/
