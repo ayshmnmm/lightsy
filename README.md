@@ -7,6 +7,8 @@ lights accordingly. The `EventStream` class is used to listen for motion detecti
 The project is designed to work with Hikvision cameras using the ISAPI event stream for motion detection events. It
 controls lights using the [tinytuya](https://github.com/jasonacox/tinytuya) library for Tuya smart devices.
 
+![](lightsy_classes.png)
+
 ## Features
 
 - Turn lights on and off based on motion detection events.
